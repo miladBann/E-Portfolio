@@ -105,7 +105,7 @@ export default function Landing() {
           className={"landing__header"}
         />
         <AnimatedHeader
-          headerText={"Junior Developer."}
+          headerText={"mid-level Developer."}
           className={"landing__sub-header"}
         />
         <p className="landing__subtext">
